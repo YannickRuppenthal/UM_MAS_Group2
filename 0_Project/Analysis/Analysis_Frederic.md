@@ -17,19 +17,25 @@ Here stuff is covered I'd like to have included in the presentation besides the 
 
 ### Important Hints for Presenters and their Audience  
 
-- Is the paper well structured? Is the writing style clear and understandable?
-- Is the approach proposed in the paper reasonable? Why, why not and how could it be improved?
-- Are the described experiments conclusive, convincing, waterproof, complete, reproducible, etc.?
-- Are all claims made by the authors throughout their paper (e.g., “we solve problem X“, “we
-extend method Y and …”) backed up through theoretical and/or experimental results, that is, are
-all claims convincingly addressed?
-- Did the authors clearly identify the assumptions they made, or are there any implicit
-assumptions not mentioned in the paper? Are these assumptions reasonable, are they realistic,
-or do they oversimplify the original problem?
-- What novel applications might arise from the paper?
-- What follow-up research do you recommend?
-- What remained unclear to you, what did you miss (e.g., experiments with specific parameter
-settings, comparison to other approaches, critical discussion by the authors)?
+- Paper structured?
+- Writing style? (clear and understandable)
+- Reasonable approach?  
+  - Why?  
+  - Why not?  
+  - Could it be improved?
+- Experiments conclusive, convincing, waterproof, complete, reproducible?
+- Claims are connivingly addressed and backed with (theoretical, experimental) results?
+- Assumptions are clearly identified, any implicit assumptions?  
+  - Assumptions are reasonable?  
+  - Realistic?
+  - Oversimplified to the original problem?
+- Any novel applications?
+- Follow-up research recommendation?
+- Anything unclear to you?,
+  - what did you miss
+  - Experiments with specific parameter settings,
+  - Comparison to other approaches
+  - Critical discussion by the authors
 
 ### Evaluation Points given by the assessment rubric  
 
